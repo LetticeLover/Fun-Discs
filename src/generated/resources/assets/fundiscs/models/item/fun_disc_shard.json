@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "fundiscs:item/fun_disc_shard"
+  }
+}

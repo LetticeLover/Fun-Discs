@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "Fun Discs",
+  "key": {
+    "#": {
+      "item": "minecraft:blue_orchid"
+    },
+    "X": {
+      "item": "fundiscs:fun_disc_shard"
+    }
+  },
+  "pattern": [
+    "XXX",
+    "X#X",
+    "XXX"
+  ],
+  "result": {
+    "count": 1,
+    "id": "fundiscs:merry_go_round"
+  }
+}

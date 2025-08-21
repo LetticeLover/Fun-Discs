@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "Vanilla Discs",
+  "key": {
+    "#": {
+      "item": "minecraft:allium"
+    },
+    "X": {
+      "item": "fundiscs:vanilla_disc_shard"
+    }
+  },
+  "pattern": [
+    "XXX",
+    "X#X",
+    "XXX"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:music_disc_mall"
+  }
+}

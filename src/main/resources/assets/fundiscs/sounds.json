@@ -1,0 +1,10 @@
+{
+  "merry_go_round": {
+    "sounds": [
+      {
+        "name": "fundiscs:merry_go_round",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "entries": [
+    "fundiscs:fun_disc_loot_modifier",
+    "fundiscs:vanilla_disc_loot_modifier"
+  ],
+  "replace": false
+}

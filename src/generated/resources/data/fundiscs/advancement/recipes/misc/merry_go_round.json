@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_fun_disc_shard": {
+      "conditions": {
+        "items": [
+          {
+            "items": "fundiscs:fun_disc_shard"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "fundiscs:merry_go_round"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_fun_disc_shard"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "fundiscs:merry_go_round"
+    ]
+  }
+}

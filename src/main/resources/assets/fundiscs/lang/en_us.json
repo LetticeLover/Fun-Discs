@@ -1,0 +1,18 @@
+{
+  "itemGroup.fundiscs": "Fun Disc Tab",
+  "block.fundiscs.example_block": "Example Block",
+  "item.fundiscs.example_item": "Example Item",
+  "item.fundiscs.merry_go_round": "Music Disc",
+  "item.fundiscs.merry_go_round.name": "Merry-Go-Round of Life",
+  "item.fundiscs.fun_disc_shard": "Fun Disc Shard",
+  "item.fundiscs.vanilla_disc_shard": "Vanilla Disc Shard",
+  "item.fundiscs.disc_shard.desc": "1/8 of a music disc. Using flowers, you can combine 8 into a variety of different discs.",
+
+  "fundiscs.configuration.title": "Fun Discs Configs",
+  "fundiscs.configuration.section.fundiscs.common.toml": "Fun Discs Configs",
+  "fundiscs.configuration.section.fundiscs.common.toml.title": "Fun Discs Configs",
+  "fundiscs.configuration.items": "Item List",
+  "fundiscs.configuration.logDirtBlock": "Log Dirt Block",
+  "fundiscs.configuration.magicNumberIntroduction": "Magic Number Text",
+  "fundiscs.configuration.magicNumber": "Magic Number"
+}

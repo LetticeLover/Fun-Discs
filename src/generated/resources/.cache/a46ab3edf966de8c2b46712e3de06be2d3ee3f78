@@ -1,0 +1,4 @@
+// 1.21.1	2025-08-19T11:25:21.7325904	Global Loot Modifiers : fundiscs
+0aefdf26bda23134b9481512b74350580602527b data/fundiscs/loot_modifiers/fun_disc_loot_modifier.json
+d617e3fdcbf79b61278660b83dfb4f1b2547282b data/fundiscs/loot_modifiers/vanilla_disc_loot_modifier.json
+66680c437a5d7443cda82c3d7907924a0bc30bcc data/neoforge/loot_modifiers/global_loot_modifiers.json

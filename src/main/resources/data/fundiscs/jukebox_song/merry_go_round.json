@@ -1,0 +1,8 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "item.fundiscs.merry_go_round.name"
+  },
+  "length_in_seconds": 161,
+  "sound_event": "fundiscs:merry_go_round"
+}
